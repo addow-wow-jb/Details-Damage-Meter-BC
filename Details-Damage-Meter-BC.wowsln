@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# WowAddOnStudio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E6E1D386-69D8-4755-9E61-0950293915FC}") = "Details", "Details\Details.wowproj", "{A478DDA8-AD7C-4066-BC82-F9D525314AAE}"
+EndProject
+Project("{E6E1D386-69D8-4755-9E61-0950293915FC}") = "Details_Streamer", "Details_Streamer\Details_Streamer.wowproj", "{F4EB30D0-C52F-4CA5-8862-6FC479D6C151}"
+EndProject
+Project("{E6E1D386-69D8-4755-9E61-0950293915FC}") = "Details_TinyThreat", "Details_TinyThreat\Details_TinyThreat.wowproj", "{F80C030B-0CB2-4871-9ED5-F46E895BF8E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A478DDA8-AD7C-4066-BC82-F9D525314AAE}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{A478DDA8-AD7C-4066-BC82-F9D525314AAE}.Default|Any CPU.Build.0 = Default|Any CPU
+		{F4EB30D0-C52F-4CA5-8862-6FC479D6C151}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{F4EB30D0-C52F-4CA5-8862-6FC479D6C151}.Default|Any CPU.Build.0 = Default|Any CPU
+		{F80C030B-0CB2-4871-9ED5-F46E895BF8E1}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{F80C030B-0CB2-4871-9ED5-F46E895BF8E1}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
